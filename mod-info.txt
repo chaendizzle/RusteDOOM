@@ -1,0 +1,6 @@
+[mod]
+title: RusteDOOM
+description: Adds enemies from DOOM to Rusted Warfare.
+tags: units
+
+thumbnail: thumbnail.png
